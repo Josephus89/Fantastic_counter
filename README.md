@@ -22,7 +22,7 @@ This simple project is a way to improve my knoledge of java script, the user int
 
 If you would like to contribute improving something or leting me know how to style it better it would be a pleasure.
 
--Licence
+- Licence
 
 This exercise project is not under license.
 
